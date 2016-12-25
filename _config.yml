@@ -1,0 +1,28 @@
+
+title: My Resume
+url: 'http://MoadBlog.com'
+baseurl: '/online-cv' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+style: styles-6
+
+
+#Profile information
+name: Mouad Zaid
+tagline: Developer, DSP, MicroControlers, Rpi and many other non-tech things
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: moadh@keemail.me
+#phone: 012 345 6789
+#website: blog.webjeda.com #do not add http://
+linkedin: /in/mouad-zaid-278291a6
+github: xmoad
+#twitter: ''
+
+#Update all the sections by editing the files inside _includes folder.
