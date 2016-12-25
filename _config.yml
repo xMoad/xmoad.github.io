@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Mouad Zaid
 url: 'http://xMoad.github.io'
 baseurl: '/xmoad.github.io' #change it according to your repository name
 
@@ -14,7 +14,7 @@ style: styles-6
 
 #Profile information
 name: Mouad Zaid
-tagline: Developer, DSP, MicroControlers, Rpi and many other non-tech things
+tagline: Developer, DSP, MicroControlers, Rpi and many other. Fanatic of non-tech things too!
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
