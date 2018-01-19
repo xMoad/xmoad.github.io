@@ -14,14 +14,14 @@ style: styles-6
 
 #Profile information
 name: Mouad Zaid
-tagline: Computer Science, Software Developer, Electronics, DSP, MicroControlers, Rpi and many other. Fanatic of non-tech things too!
+tagline: Computer Scientist, Software Developer, Electronics, DSP, MicroControlers, Rpi... Fanatic of non-tech things too!
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: mouad.zaid@gmail.com
 phone: 06 50 56 17 83
 website: xmoad.github.io #do not add http://
-linkedin: /in/mouad-zaid-278291a6
+linkedin: in/mouad-zaid-590/
 github: xmoad
 #twitter: ''
 
